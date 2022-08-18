@@ -25,6 +25,6 @@ cd advanced-py-search
 ```
 Open your ```.py``` file and add
 ```
-import search
+import Search
 ```
 You are ready to go! Now you can use this module.
